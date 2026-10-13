@@ -1,4 +1,4 @@
-These are also at the end of the code. However:
+These are also at the end of the code however:
 Part F
 
 1. Student[] is better because of the extra properties needed as well as it being easier and more clean than using two arrays.
